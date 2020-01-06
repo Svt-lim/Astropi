@@ -13,5 +13,5 @@ trois lignes de code ont été ajoutées automatiquement, /!\ **elles ne doivent
 # Etape 2 : Ajouter de la couleur.  
 L'écran du petit ordinateur sur lequel vous allez envoyer vos messages possède un écran de 8x8 LED couleur.  
 Choisis une couleur et découvre la valeur RGB de cette couleur. Tu peux utiliser un [sélecteur de couleur](https://www.w3schools.com/colors/colors_rgb.asp) pour t’aider.  
-![image](https://www.w3schools.com/colors/colors_rgb.asp)  
+![image](https://github.com/Svt-lim/Astropi/blob/master/images/5.png)  
 
