@@ -3,7 +3,8 @@ Votre objectif est de coder un message et un dessin pour les astronautes qui son
 # Pré-requis:  
 rendez vous sur la fenêtre de programmation en suivant ce [lien](https://trinket.io/mission-zero)  
 # Etape 1 : Afficher un message.  
-trois lignes de code ont été ajoutées automatiquement, /!\ **elles ne doivent jamais être effacées, elles permettent la connection à l'oridnateur de bord de l'ISS**  
+trois lignes de code ont été ajoutées automatiquement, /!\ **elles ne doivent jamais être effacées, elles permettent la connection à l'ordinateur de bord de l'ISS**  
+Commencez par ajouter ce morceau de code en ligne 4 `from time import sleep`. Cela permettra plus tard de faire des pauses pour assurer une meilleure communication avec l'ISS.  
 ![image](https://github.com/Svt-lim/Astropi/blob/master/images/1.png)  
 ![image](https://github.com/Svt-lim/Astropi/blob/master/images/2.png)  
 ![image](https://github.com/Svt-lim/Astropi/blob/master/images/3.png)  
